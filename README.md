@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm JOSEPH MAINSAH</h1>
 <h3 align="center">A DevOps Engineer with Subject matter expertise</h3>
 
-- 🌱 I’m currently learning **GenAI DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jmainsah](https://github.com/jmainsah)
 
 - 📫 How to reach me **Joseph.mainsah@gmail.com**
+
+- 🌱 I’m currently learning GenAI DevOps Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
